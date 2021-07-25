@@ -17,6 +17,6 @@ Then go to localhost:3000 on browser .
 # TODO 
 - Unit Tests
 - Dependecy Injection with something like awilix
-- Add authentication 
+- Add authentication and authorization 
 - Increase readability 
 - Stop being lazy 
