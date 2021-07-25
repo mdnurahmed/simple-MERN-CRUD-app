@@ -9,6 +9,8 @@ A simple MERN CRUD app .
 
 # Run Locally
 ```
+git clone https://github.com/mdnurahmed/simple-MERN-CRUD-app
+cd simple-MERN-CRUD-app
 docker-compose up --build
 ```
 Then go to localhost:3000 on browser . 
